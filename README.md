@@ -25,7 +25,7 @@ Java - Versão 22.0.2
 
 ### Instalação
 
-O projeto é não executavél, pois necessita de uma IDE.
+O projeto é executavél, mas necessita da IDE e um Server, para poder adicionar as informações no Banco de Dados.
 
 ## Construido com 
 
@@ -37,9 +37,8 @@ Version: 2024-06 (4.32.0)
 
 ## Autores 
 
-**Murilo Ramos Terra Rodrigues** - *Trabalho Inicial* - Atividade Individual - JBC.
+**Murilo Ramos Terra Rodrigues** - *Trabalho Inicial* - Atividade Individual - Agenda Pessoal.
 
-## Imagem
 
 
 
